@@ -1,5 +1,9 @@
 # Auto-ComputerSelection
 
+### Auto-ComputerSelection v1.1.rar
+1) I used pyinstaller to package into an exe executable, which can be run directly without running any code.
+2) To avoid being judged as a virus by Windows Defender, you need to set this exe file as a white list
+
 ### Code Requirements
 The example code is in Python (version 3.5 or higher will work).
 
